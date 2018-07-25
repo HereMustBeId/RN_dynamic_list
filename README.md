@@ -13,15 +13,15 @@ This component helps create a list of items, which consists of:
 
 
 For examle:
-1. 
-    <p align="center">
-        <img src="https://user-images.githubusercontent.com/18067700/43197865-472ad786-9015-11e8-8823-5f670c6d399a.jpg" >
-    </p>
 
-2.
-    <p align="center">
-        <img src="https://user-images.githubusercontent.com/18067700/43200296-c7880662-901d-11e8-96c8-d11fc0da7175.jpg" >
-    </p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/18067700/43197865-472ad786-9015-11e8-8823-5f670c6d399a.jpg" >
+</p>
+
+---------------------------------------------
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/18067700/43200296-c7880662-901d-11e8-96c8-d11fc0da7175.jpg" >
+</p>
 
 The component has two required props:
 1. data [Array]
