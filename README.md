@@ -12,7 +12,7 @@ This component helps create a list of items, which consists of:
     Is used to add one default item  
 
 
-For examle:
+Below are two examples:
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/18067700/43197865-472ad786-9015-11e8-8823-5f670c6d399a.jpg" >
